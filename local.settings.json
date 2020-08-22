@@ -1,0 +1,8 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "",
+    "FUNCTIONS_WORKER_RUNTIME": "python",
+    "blobstoragefordiary_STORAGE": "DefaultEndpointsProtocol=https;AccountName=blobstoragefordiary;AccountKey=xyn2+tsYliBeAEtvCk1m6D0LGpxY9bpUXvV83ySWCkJP4UpvR0lr7kJRCpHvs/GAbKJ4SxD4Rel+thvanbUcCA==;EndpointSuffix=core.windows.net"
+  }
+}
